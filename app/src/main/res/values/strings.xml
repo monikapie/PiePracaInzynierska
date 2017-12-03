@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnWall</string>
+    <string name="btnIntend">Take a picture</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">OnWall</string>
+
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
